@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 <h3>AIM:</h3>
-<h3>NAME: SARGURU.K/h3>
+<h3>NAME: SARGURU K</h3>
 <h3>REG.NO: 212222230134</h3>
 <h3>EX. NO: 02</h3>
 <h3>DATE: </h3>
